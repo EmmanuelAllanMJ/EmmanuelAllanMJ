@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelallanmj" alt="emmanuelallanmj" /></a> </p>
 
-- 🌱 I’m currently learning **React and Machine Learning**
+- 🌱 I’m currently learning **Next.js, Django and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web development project**
 
